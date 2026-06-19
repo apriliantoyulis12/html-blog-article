@@ -6,10 +6,10 @@ This project is the solution to a coding challenge focused on creating a simple 
 
 As per the challenge rules, this page is built strictly using ONLY the following HTML tags:
 
-- <h1> to <h3> (Headings for title structure)
-- <p> (Paragraphs for body text)
-- <strong> (To bold important text)
-- <em> (To italicize emphasized text)
+- `<h1>` to `<h3>` (Headings for title structure)
+- `<p>` (Paragraphs for body text)
+- `<strong>` (To bold important text)
+- `<em>` (To italicize emphasized text)
 
 ## 📂 File Structure
 
